@@ -1,10 +1,12 @@
+## Prmomt: 
+- Για την εφαρμογή Agro-Sync (mobile app για Έλληνες αγρότες με AI Scanner διάγνωσης ασθενειών φυτών, ημερολόγιο ψεκασμών, ειδοποιήσεις καιρού), δημιούργησε 5 αναλυτικά Use Cases σε mark down file. Υποχρεωτικά να συμπεριλάβεις το use case 'Λειτουργία χωρίς σύνδεση στο διαδίκτυο (offline mode)'. Για κάθε use case δώσε: Τίτλο, Actor, Preconditions, Main Flow (βήματα), Alternative Flow, Post-conditions, Edge Cases. Σκέψου ότι ο αγρότης μπορεί να βρίσκεται σε χωράφι χωρίς σήμα, να φοράει γάντια, ή να μην βλέπει καλά την οθόνη λόγω ήλιου.
+
+
+## Output of Claude Opus4.6: 
+
+
 # 🌿 Agro-Sync — Use Cases Document
-
-**Έργο:** Agro-Sync Mobile App  
-**Έκδοση:** 1.0  
-**Ημερομηνία:** 2026-03-21  
-**Συντάκτης:** @ChristosLeptokaropoulos  
-
+ 
 ---
 
 ## Πίνακας Περιεχομένων
