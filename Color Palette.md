@@ -1,4 +1,4 @@
-# 🎨 Color Palette — Agro-Sync
+# 🎨 Χρωματική Παλέτα — Agro-Sync
 
 ---
 
@@ -9,54 +9,78 @@
 
 ---
 
-### Answer:
+### Απάντηση AI:
 
-## Suggestion
+## Πρόταση AI
 
-Designing for outdoor use in direct sunlight requires prioritizing intense contrast and reducing glare. When you combine that with WCAG AAA compliance (which requires a strict 7:1 contrast ratio for normal text) and an earthy aesthetic, the best approach is to use highly reflective, warm, light backgrounds paired with deeply saturated, dark, natural foregrounds.
+Ο σχεδιασμός για χρήση σε εξωτερικό χώρο υπό έντονο ηλιακό φως απαιτεί υψηλή αντίθεση και μείωση αντανάκλασης. Σε συνδυασμό με τη συμμόρφωση WCAG AAA (αναλογία αντίθεσης 7:1 για κανονικό κείμενο) και μια γήινη αισθητική, η βέλτιστη προσέγγιση είναι η χρήση ζεστών, ανοιχτών backgrounds με σκούρους, κορεσμένους φυσικούς τόνους.
 
-Here is a curated color palette that meets all your requirements:
+### Η Παλέτα "High-Noon Harvest"
 
-### The "High-Noon Harvest" Palette
+Χρησιμοποιεί ζεστό off-white για αντιμετώπιση αντανάκλασης σε εξωτερικό χώρο, σε συνδυασμό με πλούσιους, γήινους σκούρους τόνους που ξεπερνούν τα πρότυπα WCAG AAA.
 
-This palette uses a bright, warm off-white to combat screen glare outdoors, paired with rich, grounded dark tones that comfortably exceed WCAG AAA standards.
-
-| Color Role           | Color Name         | HEX Code      | RGB              | Usage Notes                                                                                                                                      |
+| Ρόλος Χρώματος       | Όνομα              | HEX Code      | RGB              | Σημειώσεις Χρήσης                                                                                                                                |
 |----------------------|--------------------|----------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **App Background**   | Sunbleached Canvas | **`#F8F6F2`** | `248, 246, 242`  | Use as the main app background. It provides high reflection for sunlight visibility without the harsh glare of pure white.                       |
-| **Card/Surface**     | Dry Sand           | **`#EAE4D8`** | `234, 228, 216`  | Use for floating cards, input field backgrounds, or section dividers to create visual hierarchy.                                                  |
-| **Primary Text**     | Rich Soil          | **`#1D1612`** | `29, 22, 18`     | Use for all main body text, headings, and crucial iconography. A very dark, warm brown that acts as a softer alternative to pure black.           |
-| **Primary Action**   | Deep Crop Green    | **`#194D25`** | `25, 77, 37`     | Use for primary buttons, active states, text links, and positive confirmations (like a successful sync).                                         |
-| **Warning/Alert**    | Fired Clay         | **`#732616`** | `115, 38, 22`    | Use for error messages, critical alerts (e.g., "Low Moisture Warning"), or destructive actions.                                                  |
+| **Φόντο Εφαρμογής**  | Sunbleached Canvas | **`#F8F6F2`** | `248, 246, 242`  | Κύριο φόντο εφαρμογής. Υψηλή ανακλαστικότητα για ορατότητα στον ήλιο χωρίς την σκληρή αντανάκλαση του καθαρού λευκού.                           |
+| **Κάρτα/Επιφάνεια** | Dry Sand           | **`#EAE4D8`** | `234, 228, 216`  | Για αιωρούμενες κάρτες, πεδία εισαγωγής ή διαχωριστικά ενοτήτων για οπτική ιεραρχία.                                                            |
+| **Κύριο Κείμενο**   | Rich Soil          | **`#1D1612`** | `29, 22, 18`     | Για κύριο κείμενο, επικεφαλίδες και εικονογραφία. Πολύ σκούρο, ζεστό καφέ ως εναλλακτική στο καθαρό μαύρο.                                       |
+| **Κύρια Ενέργεια**  | Deep Crop Green    | **`#194D25`** | `25, 77, 37`     | Για κουμπιά, ενεργές καταστάσεις, συνδέσμους και θετικές επιβεβαιώσεις (π.χ. επιτυχημένος συγχρονισμός).                                         |
+| **Προειδοποίηση**   | Fired Clay         | **`#732616`** | `115, 38, 22`    | Για μηνύματα σφάλματος, κρίσιμες ειδοποιήσεις (π.χ. «Χαμηλή υγρασία») ή καταστροφικές ενέργειες.                                                |
 
 ---
 
-### 📏 WCAG AAA Compliance Verification
+### 📏 Έλεγχος Συμμόρφωσης WCAG AAA
 
-To maintain AAA compliance, you must stick to these specific background/foreground pairings. All combinations below exceed the strict **7:1** ratio required for normal-sized text.
+Για τη διατήρηση AAA συμμόρφωσης, πρέπει να τηρούνται οι παρακάτω συνδυασμοί φόντου/προσκηνίου. Όλοι ξεπερνούν την αυστηρή αναλογία **7:1** για κανονικό κείμενο.
 
-**Against App Background (`#F8F6F2`):**
-- **Rich Soil (`#1D1612`) Text:** Contrast Ratio is **~17.3:1** (AAA Pass ✅)
-- **Crop Green (`#194D25`) Text/Buttons:** Contrast Ratio is **~9.5:1** (AAA Pass ✅)
-- **Fired Clay (`#732616`) Text/Alerts:** Contrast Ratio is **~9.1:1** (AAA Pass ✅)
+**Σε Φόντο Εφαρμογής (`#F8F6F2`):**
+- **Rich Soil (`#1D1612`) Κείμενο:** Αναλογία αντίθεσης **~17.3:1** (AAA ✅)
+- **Crop Green (`#194D25`) Κείμενο/Κουμπιά:** Αναλογία αντίθεσης **~9.5:1** (AAA ✅)
+- **Fired Clay (`#732616`) Κείμενο/Ειδοποιήσεις:** Αναλογία αντίθεσης **~9.1:1** (AAA ✅)
 
-**Against Card/Surface Background (`#EAE4D8`):**
-- **Rich Soil (`#1D1612`) Text:** Contrast Ratio is **~14.4:1** (AAA Pass ✅)
-- **Crop Green (`#194D25`) Text/Buttons:** Contrast Ratio is **~7.8:1** (AAA Pass ✅)
-- **Fired Clay (`#732616`) Text/Alerts:** Contrast Ratio is **~7.6:1** (AAA Pass ✅)
+**Σε Φόντο Κάρτας (`#EAE4D8`):**
+- **Rich Soil (`#1D1612`) Κείμενο:** Αναλογία αντίθεσης **~14.4:1** (AAA ✅)
+- **Crop Green (`#194D25`) Κείμενο/Κουμπιά:** Αναλογία αντίθεσης **~7.8:1** (AAA ✅)
+- **Fired Clay (`#732616`) Κείμενο/Ειδοποιήσεις:** Αναλογία αντίθεσης **~7.6:1** (AAA ✅)
 
-> **Important UI Note for Sunlight:** Because you are using this in direct sunlight, avoid placing white or light text *inside* your colored buttons. A white text on the `Deep Crop Green` button only yields about a 6.7:1 contrast ratio (which fails AAA for normal text).
+> **Σημαντική Σημείωση UI για Ηλιακό Φως:** Αποφύγετε ανοιχτό κείμενο μέσα σε χρωματιστά κουμπιά. Λευκό κείμενο σε `Deep Crop Green` κουμπί δίνει μόνο ~6.7:1 αντίθεση (αποτυχία AAA για κανονικό κείμενο).
 >
-> **The Outdoor Solution:** Keep your buttons light (like the `Dry Sand` color or a transparent outline) with dark `Deep Crop Green` text/icons inside them, or make the buttons massive (large text only requires a 4.5:1 ratio for AAA).
+> **Λύση για Εξωτερικό Χώρο:** Κρατήστε ανοιχτά κουμπιά (π.χ. `Dry Sand` ή outline) με σκούρο κείμενο/εικονίδια μέσα τους, ή χρησιμοποιήστε πολύ μεγάλα κουμπιά (μεγάλο κείμενο απαιτεί μόνο 4.5:1 για AAA).
 
 ---
 
-## Final Selection
+## Τελική Επιλογή
 
-After testing, I kept these three colours for my UI:
+Μετά τις δοκιμές στο Figma, κράτησα αυτά τα τρία χρώματα αλλά **αναδιάταξα τους ρόλους τους** βάσει του τι λειτουργεί καλύτερα στην οθόνη κάτω από ηλιακό φως:
 
-| Color       | HEX Code      | Role              |
-|-------------|----------------|--------------------|
-| 🟡 Gold     | **`#D1AD5A`** | Accent / Highlight |
-| 🟢 Green    | **`#194D25`** | Primary Action     |
-| 🔴 Clay Red | **`#732616`** | Warning / Alert    |
+| Χρώμα        | HEX Code      | Ρόλος στο Figma                   | Χρήση στις Οθόνες Figma                                                                                     |
+|--------------|----------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| 🟤 Clay Red  | **`#732616`** | **Κύριο / UI Chrome**             | Headers, κάτω μπάρα πλοήγησης, φόντο καρτών (Home), header Scanner, header Calendar, hero section Warnings  |
+| 🟡 Gold      | **`#D1AD5A`** | **Τονισμός / Highlight**          | Ενεργό εικονίδιο πλοήγησης, κείμενο αντίστροφης μέτρησης παγετού, τονισμοί κάρτας καιρού                    |
+                  |
+
+### Πρόσθετα Χρώματα στο Figma
+
+| Χρώμα                | HEX Code      | Ρόλος                    | Χρήση                                                        |
+|----------------------|----------------|--------------------------|--------------------------------------------------------------|
+| ⬜ Ζεστό Off-White   | **`#F5F2EB`** | Φόντο / Επιφάνεια       | Κύρια φόντα οθονών, κάρτες καιρού, ημερολόγιο                |
+| ⬛ Σκούρα Επιφάνεια  | **`#1A1A1A`** | Σκούρα Επιφάνεια        | Φόντο κάμερας Scanner                                        |
+| ⚫ Κύριο Κείμενο     | **`#1B1B1B`** | Κείμενο Σώματος          | Επικεφαλίδες & σώμα κειμένου σε ανοιχτά φόντα               |
+| ⬜ Λευκό             | **`#FFFFFF`** | Κείμενο σε Σκούρο        | Κείμενο σε καφέ/σκούρα φόντα, ετικέτες πλοήγησης            |
+| 🔘 Δευτερεύον Κείμενο| **`#6B6B6B`** | Δευτερεύουσες Πληρ.     | Υπότιτλοι, λεπτομέρειες καιρού, χρονοσφραγίδες             |
+
+---
+
+## Απόρριψη του Πράσινου ως Κύριο Χρώμα
+
+### Γιατί το `#194D25` υποβιβάστηκε από «Κύρια Ενέργεια»
+
+Το AI (Gemini) πρότεινε αρχικά τη χρήση του **Deep Crop Green `#194D25`** ως κύριο χρώμα ενέργειας. Κατά την υλοποίηση στο Figma, **απέρριψα αυτή την πρόταση** και αντικατέστησα το πράσινο με το **Clay Red / Καφέ `#732616`** ως κύριο χρώμα UI για τους εξής λόγους:
+
+1. **Γήινη Ζεστασιά:** Το σκούρο κοκκινωπό-καφέ `#732616` δημιουργεί πιο ζεστή, φυσική αισθητική που ταιριάζει καλύτερα στο αγροτικό πλαίσιο — παραπέμπει σε χώμα, πηλό και μεσογειακό τοπίο.
+2. **Οπτική Συνοχή:** Η χρήση του `#732616` για headers, πλοήγηση και φόντα καρτών σε όλες τις 5 οθόνες δημιουργεί ενιαία, συνεπή οπτική ταυτότητα. Το πράσινο ως κύριο χρώμα φαινόταν πολύ γενικό για αγροτική εφαρμογή (κάθε "farm app" χρησιμοποιεί πράσινο).
+3. **Διαφοροποίηση:** Με το καφέ/πηλό ως κύριο και το χρυσό `#D1AD5A` για τονισμούς, η εφαρμογή ξεχωρίζει οπτικά από τους ανταγωνιστές που χρησιμοποιούν πράσινες παλέτες.
+4. **Απόδοση στον Ήλιο:** Το σκούρο κοκκινωπό-καφέ παρέχει εξαιρετική αντίθεση σε σχέση με το ζεστό off-white `#F5F2EB` φόντο κάτω από άμεσο ηλιακό φως, διατηρώντας την απαίτηση υψηλής αντίθεσης.
+
+> **Σημείωση AI Logbook:** *«Το AI πρότεινε το `#194D25` (πράσινο) ως Κύρια Ενέργεια. Απέρριψα αυτή την πρόταση για τον κύριο ρόλο UI γιατί κάθε αγροτική εφαρμογή χρησιμοποιεί πράσινο ως κυρίαρχο χρώμα. Αντ' αυτού, χρησιμοποίησα το ζεστό σκούρο καφέ `#732616` ως κύριο χρώμα UI — αποδίδει καλύτερα τον γήινο, εξωτερικό χαρακτήρα της εφαρμογής ενώ παρέχει ισχυρότερη οπτική διαφοροποίηση. Το πράσινο κρατήθηκε ως δευτερεύον χρώμα κατάστασης.»*
+
