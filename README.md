@@ -1,1 +1,0 @@
-# Agro-Sync-UI-UX-Design-AI-Copilot
